@@ -2,6 +2,6 @@
 
 int main() 
 {
-	printf("Morjes!");
+	printf("Morjesta!\n");
 	return 1;
 }
